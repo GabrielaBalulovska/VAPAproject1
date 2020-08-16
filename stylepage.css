@@ -1,0 +1,19 @@
+h1{
+    color:#A48401;
+}
+body {
+    background-color:  rgb(169, 196, 197);
+}
+.mainheader{
+    float: center;
+    font-size: 65px;
+    color: white;
+    text-align: center;
+    background-color: rgb(169, 196, 197);
+}
+
+#mainpara{
+    font-size: 20px;
+    float: center;
+    text-align: center;
+}
